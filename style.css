@@ -1,0 +1,32 @@
+
+#calculator{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(10, 41, 26);
+    color: white;
+    font-family: 'Itim', cursive;
+    border: 0px;
+    border-radius: 30px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin:200px ;
+
+    
+    }
+    .button{
+        background-color: rgb(247, 173, 82);
+        /* background-color: rgb(83, 83, 82); */
+        border-radius: 10px;
+    }
+    #age{
+        text-shadow: 2px 2px 1px rgb(91, 92, 95);
+        color: orange;
+    }
+    
+    #arr{
+        color: white;
+        padding: 20px;
+    }
+   
+     
